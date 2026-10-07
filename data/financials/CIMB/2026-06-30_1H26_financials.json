@@ -1,0 +1,81 @@
+{
+  "company": "CIMB Group Holdings Berhad",
+  "ticker": "1023",
+  "filing": "2Q26 CIMB Group Financial Statement",
+  "period_end": "2026-06-30",
+  "period_type": "1H26 interim",
+  "basis": "Group consolidated",
+  "audit_status": "unaudited",
+  "currency": "MYR",
+  "unit": "RM million unless stated otherwise",
+  "source": {
+    "file": "2Q26 CIMB Group Financial Statement.pdf",
+    "source_type": "issuer interim financial statements",
+    "reporting_date": "2026-06-30"
+  },
+  "observations": {
+    "total_assets": {"value": 794851.196, "prior": 778724.390, "prior_period": "2025-12-31", "status": "FACT"},
+    "gross_loans_advances_financing": {"value": 458082.256, "prior": 452947.176, "prior_period": "2025-12-31", "status": "FACT"},
+    "net_loans_advances_financing": {"value": 450594.779, "prior": 444920.430, "prior_period": "2025-12-31", "status": "FACT"},
+    "customer_deposits": {"value": 483734.893, "prior": 477755.341, "prior_period": "2025-12-31", "status": "FACT"},
+    "total_equity": {"value": 71681.533, "prior": 71907.766, "prior_period": "2025-12-31", "status": "FACT"},
+    "net_assets_per_share_rm": {"value": 6.50, "prior": 6.52, "prior_period": "2025-12-31", "status": "FACT"},
+    "operating_income_1h": {"value": 10972.354, "comparable": 11100.769, "comparable_period": "1H25", "status": "FACT"},
+    "net_interest_income_1h": {"value": 5371.835, "comparable": 5604.576, "comparable_period": "1H25", "status": "FACT"},
+    "net_fee_commission_income_1h": {"value": 1187.921, "comparable": 1196.457, "comparable_period": "1H25", "status": "FACT"},
+    "other_non_interest_income_1h": {"value": 1996.415, "comparable": 1818.682, "comparable_period": "1H25", "status": "FACT"},
+    "overheads_1h": {"value": 5069.536, "comparable": 5130.922, "comparable_period": "1H25", "status": "FACT"},
+    "loan_ecl_1h": {"value": 798.352, "comparable": 696.118, "comparable_period": "1H25", "status": "FACT"},
+    "pbt_1h": {"value": 5158.443, "comparable": 5274.629, "comparable_period": "1H25", "status": "FACT"},
+    "net_profit_attributable_1h": {"value": 3854.697, "comparable": 3862.122, "comparable_period": "1H25", "status": "FACT"},
+    "basic_eps_sen_1h": {"value": 35.69, "comparable": 35.96, "comparable_period": "1H25", "status": "FACT"},
+    "annualised_roe_1h": {"value_pct": 11.0, "status": "FACT"},
+    "q2_net_profit_attributable": {"value": 1938.265, "comparable": 1888.742, "comparable_period": "2Q25", "status": "FACT"},
+    "q2_eps_sen": {"value": 17.94, "comparable": 17.57, "comparable_period": "2Q25", "status": "FACT"},
+    "q2_cost_income_ratio_pct": {"value": 45.2, "status": "FACT"},
+    "gross_impaired_loan_ratio_pct": {"value": 1.64, "prior": 1.72, "prior_period": "2025-12-31", "status": "FACT"},
+    "cet1_ratio_before_proposed_dividend_pct": {"value": 14.902, "status": "FACT"},
+    "cet1_ratio_after_proposed_dividend_pct": {"value": 14.325, "status": "FACT"},
+    "total_capital_ratio_before_proposed_dividend_pct": {"value": 18.611, "status": "FACT"},
+    "total_capital_ratio_after_proposed_dividend_pct": {"value": 18.034, "status": "FACT"},
+    "interim_dividend_sen": {"value": 19.65, "payout_ratio_pct": 55, "status": "FACT"},
+    "cash_dividend_payout_rm_million": {"value": 2124, "status": "FACT"}
+  },
+  "derived_metrics": {
+    "operating_income_yoy_pct": -1.16,
+    "net_interest_income_yoy_pct": -4.15,
+    "net_fee_commission_income_yoy_pct": -0.71,
+    "other_non_interest_income_yoy_pct": 9.77,
+    "overheads_yoy_pct": -1.20,
+    "loan_ecl_yoy_pct": 14.69,
+    "pbt_yoy_pct": -2.20,
+    "net_profit_attributable_yoy_pct": -0.19,
+    "basic_eps_yoy_pct": -0.75,
+    "gross_loans_growth_vs_2025_12_31_pct": 1.13,
+    "customer_deposits_growth_vs_2025_12_31_pct": 1.25,
+    "total_assets_growth_vs_2025_12_31_pct": 2.07,
+    "equity_change_vs_2025_12_31_pct": -0.31
+  },
+  "interpretation": {
+    "status": "ANALYSIS",
+    "summary": "1H26 earnings were broadly resilient rather than high-growth: operating income fell 1.2% YoY and PBT fell 2.2%, while attributable net profit was almost flat (-0.2%). The main pressure was weaker NII/NIM and higher provisions, partly offset by stronger non-interest income and lower operating expenses.",
+    "positive": [
+      "2Q26 net profit increased 2.6% YoY and 1.2% QoQ.",
+      "NOII/non-interest income remained supportive, with 1H other non-interest income up 9.8% YoY.",
+      "Gross impaired loan ratio improved to 1.64% from 1.72% at end-2025.",
+      "CET1 and total capital ratios remained strong after the proposed dividend.",
+      "Loan and deposit balances continued to grow."
+    ],
+    "watch": [
+      "1H NII declined 4.2% YoY, reflecting weaker NIM.",
+      "1H loan ECL rose 14.7% YoY.",
+      "Consumer Banking faced higher provisions; Commercial Banking provisions normalised in 2Q26.",
+      "CIMB Investment is involved in the MEX II litigation; the filing describes a claimed dissolution amount of RM1.38 billion as at 3 January 2022, with trial dates set in 2027-2028."
+    ],
+    "forward_items_from_filing": [
+      "Management expects NIM pressure to progressively ease, supported by Indonesia loan repricing and lower-cost deposits.",
+      "Focus areas include ASEAN cross-border trade, wealth, AI/data centres, transaction banking, JS-SEZ and digital capabilities.",
+      "TNG Digital's total payment value rose 68.8% YoY to RM157 billion in 2Q26; TNG Group profit grew more than 100% YoY in 1H26."
+    ]
+  }
+}
