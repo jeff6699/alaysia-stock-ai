@@ -1,0 +1,124 @@
+{
+  "company": "NationGate Holdings Berhad",
+  "ticker": "NHB",
+  "reporting_period": "2Q26 / 1H26",
+  "period_end": "2026-06-30",
+  "source": "Unaudited Interim Financial Report for the Second Quarter Ended 30 June 2026",
+  "currency": "MYR",
+  "unit": "RM'000 unless stated otherwise",
+  "quarter": {
+    "revenue": 1768930,
+    "revenue_yoy_pct": -32.03,
+    "gross_profit": 58395,
+    "gross_profit_yoy_pct": -20.79,
+    "operating_profit": 18192,
+    "pbt": 8072,
+    "pbt_yoy_pct": -90.31,
+    "pat": 11053,
+    "pat_yoy_pct": -81.36,
+    "attributable_profit": 10904,
+    "eps_basic_sen": 0.48,
+    "eps_yoy_pct": -79.04
+  },
+  "ytd_1h26": {
+    "revenue": 3488869,
+    "revenue_yoy_pct": -35.17,
+    "gross_profit": 86669,
+    "gross_profit_yoy_pct": -50.41,
+    "operating_profit": 21717,
+    "pbt": -374,
+    "pat": 3313,
+    "attributable_profit": 11416,
+    "eps_basic_sen": 0.5
+  },
+  "qoq_2q26_vs_1q26": {
+    "revenue_pct": 2.85,
+    "gross_profit_pct": 106.54,
+    "pbt_1q26": -8446,
+    "pbt_2q26": 8072,
+    "pat_1q26": -7740,
+    "pat_2q26": 11053,
+    "attributable_profit_1q26": 512,
+    "attributable_profit_2q26": 10904
+  },
+  "balance_sheet": {
+    "total_assets": 3257157,
+    "total_equity": 1028161,
+    "total_liabilities": 2228996,
+    "cash": 321067,
+    "borrowings": 901940,
+    "net_debt": 580873,
+    "gearing_times": 0.88,
+    "net_assets_per_share_sen": 45.44,
+    "inventories": 684116,
+    "trade_receivables": 1521582,
+    "trade_payables": 1130751,
+    "ppe": 450183
+  },
+  "cash_flow_1h26": {
+    "operating_cash_flow": -97870,
+    "investing_cash_flow": -88375,
+    "financing_cash_flow": 89800,
+    "net_change_cash": -96445,
+    "capex": 93808,
+    "dividends_paid": 33940
+  },
+  "segments_1h26": {
+    "networking_telecommunications": 274938,
+    "industrial_instruments": 60807,
+    "data_computing": 3023783,
+    "consumer_electronics": 14970,
+    "automotive": 96888,
+    "others": 17483
+  },
+  "geography_1h26": {
+    "malaysia": 2957609,
+    "singapore": 28071,
+    "usa": 166780,
+    "germany": 35410,
+    "australia": 6123,
+    "other_asia": 228070,
+    "other_europe": 59826,
+    "other_north_america": 2301,
+    "other_africa": 4679
+  },
+  "commitments_and_hedging": {
+    "approved_contracted_ppe_commitments": 362799,
+    "fx_forward_notional": 2238202,
+    "fx_forward_usd_million": 548
+  },
+  "dividends": [
+    {
+      "fy": "FY2025",
+      "type": "interim",
+      "sen_per_share": 0.25,
+      "payment_date": "2026-03-26"
+    },
+    {
+      "fy": "FY2025",
+      "type": "special",
+      "sen_per_share": 1,
+      "payment_date": "2026-04-17"
+    },
+    {
+      "fy": "FY2026",
+      "type": "interim",
+      "sen_per_share": 0.25,
+      "payment_date": "2026-06-29"
+    },
+    {
+      "fy": "FY2026",
+      "type": "interim",
+      "sen_per_share": 0.25,
+      "payment_date": "2026-09-22",
+      "announced_after_reporting_period": true
+    }
+  ],
+  "outlook": {
+    "ai_cloud_digital_infrastructure": true,
+    "server_manufacturing_demand": true,
+    "photonics_opportunity": true,
+    "photonics_facilities_expected_completion": "4Q2026",
+    "management_tone": "cautiously optimistic"
+  }
+}
