@@ -64,3 +64,14 @@ Period ended 30 June 2026.
 **Current assessment:** Growth thesis remains intact, but Q1 FY2027 does not yet demonstrate operating-leverage improvement. The most important validation points for subsequent quarters are gross-margin recovery, conversion of receivables into cash, new EPCC order intake, and progress on LSS6/BESS opportunities.
 
 **Important:** Facts and interpretations should remain clearly separated. This record is a research archive, not a buy/sell instruction.
+
+## Source update — 1Q FY2027 Press Release
+
+A company-issued press release dated 28 August 2026 has been archived at:
+
+- `sources/0340-northern-solar-fy27q1-press-release.md`
+
+The release confirms that 1QFY27 revenue reached RM38.2m, the highest quarterly revenue since listing, with EPCC contributing approximately 98.1% of revenue. It also highlights the lower 27.4% gross margin caused by project mix, the RM34.9m net cash position, intended evaluation of LSS6 opportunities, and the Main Market transfer approval.
+
+This source is complementary to the existing Q1FY27 interim financial-statement record and should be used for management outlook / strategic commentary, while the interim report remains the primary detailed financial source.
+
