@@ -24,7 +24,7 @@ NORTHERN is an actively tracked Malaysian renewable-energy company in the Malays
 - EPCC margins
 - Valuation and risk/reward
 
-## 2026-10-07 RM34 Million EPCC Contract
+## Archived Event — 2026-10-07 RM34 Million EPCC Contract
 
 Source:
 https://www.klsescreener.com/v2/news/view/1804731
@@ -44,7 +44,7 @@ https://www.klsescreener.com/v2/news/view/1804731
 
 The RM34 million award is a positive order-book and earnings-visibility signal.
 
-It should be assessed together with Northern Solar's existing project pipeline rather than in isolation.
+The key investment value is not simply the RM34m contract amount, but the continued replenishment of executable solar EPCC work and the additional visibility into FY2027 earnings.
 
 Important distinction:
 
@@ -52,6 +52,8 @@ Important distinction:
 - Existing RM119.38m LSS5 project: include in fundamental/order-book analysis.
 - Unbilled order book of RM189.3m: use as an order-visibility indicator.
 - Potential CRESS / large future projects: do not include in base-case valuation until formally secured.
+
+Contract value must not be treated as profit. Future analysis should verify revenue recognition, EPCC gross margin, cash conversion and working-capital requirements.
 
 ## Key Financial / Order-Book Snapshot
 
