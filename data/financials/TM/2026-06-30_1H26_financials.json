@@ -1,0 +1,72 @@
+{
+  "company": "Telekom Malaysia Berhad",
+  "ticker": "TM",
+  "reporting_period": "2Q 2026 / 1H 2026",
+  "period_end": "2026-06-30",
+  "announcement_date": "2026-08-20",
+  "currency": "MYR",
+  "source_document": "News Release - TM 2Q 2026 Results Announcement",
+  "source_type": "Company news release",
+  "quarter": {
+    "revenue_rm_billion": 2.96,
+    "revenue_yoy_pct": 6.8,
+    "underlying_patami_rm_million": 406.3,
+    "underlying_patami_yoy_pct": 4.6,
+    "reported_patami_rm_million": 365.5
+  },
+  "half_year": {
+    "revenue_rm_billion": 5.9,
+    "revenue_yoy_pct": 4.8,
+    "underlying_patami_rm_million": 842.6,
+    "underlying_patami_yoy_pct": 7,
+    "reported_patami_rm_million": 687,
+    "dividend_sen_per_share_total": 13.5,
+    "dividend_payout_pct_reported_patami": 75,
+    "capex_rm_million": 555.7,
+    "capex_pct_revenue": 9.4
+  },
+  "dividend": {
+    "second_interim_sen_per_share": 7,
+    "total_1h2026_sen_per_share": 13.5,
+    "stated_payout_pct_reported_patami": 75
+  },
+  "segments_1h2026": {
+    "B2C_Unifi": {
+      "revenue_rm_billion": 2.91,
+      "revenue_yoy_pct": 5.2,
+      "fixed_broadband_subscribers_million": 3.23
+    },
+    "B2B_TM_One_and_Credence": {
+      "revenue_rm_billion": 1.36,
+      "revenue_yoy_pct": 1.9
+    },
+    "C2C_TM_Global": {
+      "revenue_rm_billion": 1.55,
+      "revenue_yoy_pct": 6.8,
+      "backhaul_5g_sites": 9500,
+      "network_coverage_pct": 80
+    }
+  },
+  "capex_focus": [
+    "data centre",
+    "cloud",
+    "GPUaaS",
+    "5G access"
+  ],
+  "strategic_items": [
+    "IPDC Block 2 fully taken up",
+    "Asia Link Cable landed in Sedili, Johor",
+    "TM Nxera development",
+    "scaling GPUaaS"
+  ],
+  "guidance": "Management remains confident in delivering FY2026 guidance.",
+  "one_off_items": [
+    "5G capacity write-down",
+    "other one-off costs",
+    "Prihatin-related costs",
+    "foreign-exchange movements"
+  ],
+  "data_limitations": [
+    "Based only on the supplied 2-page company news release; detailed income statement, balance sheet, cash flow, EPS, net debt and valuation data are not included."
+  ]
+}
