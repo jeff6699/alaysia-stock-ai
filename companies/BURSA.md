@@ -269,3 +269,54 @@ For future valuation work, monitor:
 ## Update Rule
 
 Future Bursa Malaysia quarterly results, ADV/trading-velocity data, IPO/listing activity, derivatives volumes, data-business performance, regulatory changes, dividend announcements, capital-market policy and valuation work should be appended to or linked from this canonical company record rather than creating duplicate company files.
+
+
+## Archived Media Release — 1H2026 Market & Financial Highlights
+
+### Source
+- File: Media Release 1H2026 - 30 July 2026.pdf
+- Release date: 30 July 2026
+- Reporting period: 1H2026 ended 30 June 2026
+- Source issuer: Bursa Malaysia Berhad
+- Source type: Corporate media release
+
+### Key 1H2026 Highlights
+- PATAMI: RM144.6m, +15.2% YoY.
+- Operating revenue: RM411.7m, +19.6% YoY.
+- Securities Market OMT ADV: RM3.3bn, +35.0% YoY.
+- IPOs: 36 listings, raising RM5.4bn and contributing RM26.1bn in market capitalisation.
+- Derivatives ADC: 106,518 contracts, +9.9% YoY, driven mainly by FCPO.
+- Bursa Suq Al-Sila' ADV: RM49.5bn, +3.2% YoY.
+- Non-trading revenue: +17.6% YoY and 37.3% of total operating revenue.
+- Interim dividend: 16.5 sen/share, RM133.5m total, 92% payout ratio.
+
+### 2026 IPO KPI Upgrade
+Bursa Malaysia raised its 2026 IPO market-capitalisation target from RM28bn to RM34bn, reflecting the strong IPO performance and healthy listing pipeline.
+
+### Market Development
+- Derivatives after-hours T+1 ADC increased 18.9% YoY to 16,801 contracts, representing 15.8% of total market activity.
+- Bursa Gold Dinar transaction value increased 178.1% YoY to RM200.5m.
+- 81% of Bursa-listed securities were Shariah-compliant.
+- Non-trading revenue growth was mainly supported by listing and issuer services fees, which increased 64.1% following the revision of listing fees.
+- Bursa continued the MY Value Up Programme and Guidebook with the Securities Commission Malaysia and strengthened regional connectivity through its partnership with Hong Kong Exchanges and Clearing Limited.
+
+### Management Outlook
+Management highlighted geopolitical and external-market uncertainty as risks, but stated that Malaysia's 2026 growth outlook, sustained domestic demand and continued technology-sector expansion remain supportive of capital formation and investment activity. Management expressed confidence in 2H2026 IPO activity, supported by a healthy pipeline.
+
+### Dividend Dates
+- Entitlement date: 19 August 2026
+- Payment date: 27 August 2026
+
+### Investment Relevance
+This media release reinforces the existing Bursa thesis: earnings are benefiting from stronger market turnover and listing activity, while the upgraded IPO market-capitalisation target provides an additional indicator of management confidence in the 2H2026 pipeline. Non-trading revenue is becoming an important diversification source, but the business remains exposed to market activity and external/geopolitical conditions.
+
+### Research Classification
+- Signal: Positive
+- Earnings momentum: Positive
+- IPO/listing outlook: Positive
+- Revenue diversification: Improving
+- Main risk: Market-cycle and geopolitical sensitivity
+- Main follow-up: 2H2026 ADV, IPO pipeline, listing-fee revenue, non-trading revenue mix and sustainability of elevated payout.
+
+### Source Note
+All figures and statements in this section are derived from the uploaded Bursa Malaysia media release. They are kept separate from valuation assumptions or external market-price analysis.
