@@ -91,3 +91,10 @@ The manager expressed a favourable outlook, expecting stable performance through
 **Operationally positive, but per-unit and financing metrics require close monitoring.** Revenue and NPI grew strongly, while profit and distributable income remained flat because of higher costs. The acquisition expands the asset base, but leverage and unit count both increased materially. The next reports should demonstrate sustained incremental NPI from acquired assets, stabilising expense ratios, and a distribution profile that is sustainable after accounting for debt service and dilution.
 
 *Research note only; not investment advice. Figures are based on the unaudited Q1FY2027 report and should be checked against subsequent Bursa announcements and full-year audited accounts.*
+
+
+## 10. Re-archive review (19 October 2026)
+
+This record was rechecked against the Q1FY2027 report and retained as the current company note. Key decision points: revenue +19.6% YoY and NPI +17.6%, while profit after tax and distributable income were essentially flat (+0.1% each); borrowings rose to RM983.391m and gearing to 42.64%; 200m new units increased the unit base by about 20.9%. The 0.82 sen DPU is an advance distribution for 1 July–24 August 2026, so it should not be treated as a full-quarter recurring rate or annualised without checking subsequent distribution announcements.
+
+**Status:** Archived/reviewed. Next update should incorporate the next quarterly report, any subsequent DPU announcement, and verified market price before calculating yield or valuation targets.
