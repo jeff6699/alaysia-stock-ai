@@ -1,0 +1,111 @@
+{
+  "company": "Pantech Global Berhad",
+  "ticker": "PANTECH",
+  "report_type": "unaudited_interim_financial_report",
+  "fiscal_period": "Q2 FY2027",
+  "quarter_end": "2026-08-31",
+  "board_authorisation_date": "2026-10-21",
+  "currency": "MYR",
+  "unit_for_financials": "RM'000 unless otherwise stated",
+  "source_file": "PanGlob_Bursa_Qtr2FY2027_Final.pdf",
+  "income_statement": {
+    "quarter_current": {
+      "revenue": 173707,
+      "operating_profit": 27012,
+      "profit_before_tax": 24696,
+      "taxation": 5364,
+      "profit_for_period": 19332,
+      "basic_eps_sen": 2.27
+    },
+    "quarter_comparative": {
+      "revenue": 126901,
+      "operating_profit": 15462,
+      "profit_before_tax": 13523,
+      "taxation": 3321,
+      "profit_for_period": 10202,
+      "basic_eps_sen": 1.20
+    },
+    "six_month_current": {
+      "revenue": 333385,
+      "operating_profit": 50496,
+      "profit_before_tax": 46297,
+      "taxation": 10606,
+      "profit_for_period": 35691,
+      "basic_eps_sen": 4.20
+    },
+    "six_month_comparative": {
+      "revenue": 252532,
+      "operating_profit": 33411,
+      "profit_before_tax": 29406,
+      "taxation": 7180,
+      "profit_for_period": 22226,
+      "basic_eps_sen": 2.61
+    }
+  },
+  "balance_sheet_as_at_2026_08_31": {
+    "total_assets": 810412,
+    "total_equity": 548275,
+    "total_liabilities": 262137,
+    "current_assets": 542718,
+    "current_liabilities": 210768,
+    "cash_and_bank_balances": 165539,
+    "inventories": 247816,
+    "trade_and_other_receivables": 111388,
+    "current_borrowings": 177479,
+    "noncurrent_borrowings": 27690,
+    "current_lease_liabilities": 3086,
+    "noncurrent_lease_liabilities": 7210,
+    "net_assets_per_share_rm": 0.6450
+  },
+  "cash_flow_six_months": {
+    "net_cash_from_operating_activities": 6710,
+    "net_cash_used_in_investing_activities": -470,
+    "net_cash_from_financing_activities": 53987,
+    "net_increase_in_cash_and_cash_equivalents": 60227,
+    "capital_expenditure_ppe": 2024,
+    "dividend_paid": 17000,
+    "drawdown_short_term_borrowings": 54871,
+    "drawdown_term_loan": 24650,
+    "repayment_term_loan": 3568
+  },
+  "dividend": {
+    "type": "first interim single-tier dividend for FY2027",
+    "sen_per_share": 2.2,
+    "record_date": "2026-11-30",
+    "payment_date": "2026-12-16"
+  },
+  "corporate_actions": [
+    {
+      "type": "proposed_disposal_of_freehold_land",
+      "announcement_date": "2026-10-13",
+      "consideration_rm": 31730000,
+      "land_area_acres_approx": 10.01,
+      "status_at_report_date": "proposed, not completed"
+    }
+  ],
+  "capital_commitments_rm000": 19352,
+  "public_issue_proceeds_rm000": {
+    "total": 178315,
+    "utilised": 143162,
+    "unutilised": 35153
+  },
+  "calculated_metrics": {
+    "q2_revenue_yoy_pct": 36.88,
+    "q2_operating_profit_yoy_pct": 74.70,
+    "q2_pbt_yoy_pct": 82.62,
+    "q2_net_profit_yoy_pct": 89.49,
+    "six_month_revenue_yoy_pct": 32.02,
+    "six_month_operating_profit_yoy_pct": 51.14,
+    "six_month_pbt_yoy_pct": 57.44,
+    "six_month_net_profit_yoy_pct": 60.58,
+    "current_ratio_approx": 2.57,
+    "net_borrowings_less_cash_rm000_excluding_leases": 39630,
+    "operating_cash_flow_to_net_profit_pct_approx": 18.8
+  },
+  "data_notes": [
+    "The interim report is unaudited.",
+    "Calculated metrics are derived from the figures in the source report and are not separately reported company KPIs.",
+    "Net borrowings less cash excludes lease liabilities.",
+    "No target price or valuation multiple is stored because an assessment-date share price and valuation assumptions were not included in the source report."
+  ]
+}
