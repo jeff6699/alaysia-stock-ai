@@ -186,3 +186,122 @@ Bull-case valuation can assign higher growth assumptions if repeated AI/Data Cen
 Future AEMULUS announcements, financial results, AI/Data Centre orders, CIS orders, customer developments, product launches, Revotronix integration updates, valuation changes and investment decisions should be appended to or linked from this canonical record.
 
 Do not create duplicate company records for individual announcements.
+
+
+---
+
+# Archived Financial Results — FY2026 Q4 (Year ended 30 September 2026)
+
+- **Announcement period:** Fourth quarter and financial year ended 2026-09-30
+- **Report status:** Unaudited interim financial report
+- **Source document:** `Q426 - BURSA ANNOUNCEMENT (Finalised).pdf` (22 pages)
+- **Archive update date:** 2026-11-24
+
+## FY2026 Full-year results
+
+Amounts in RM million unless stated otherwise.
+
+| Metric | FY2026 | FY2025 | YoY |
+|---|---:|---:|---:|
+| Revenue | 118.124 | 83.079 | +42.2% |
+| Gross profit | 62.580 | 39.459 | +58.6% |
+| Operating profit | 9.258 | 7.137 | +29.7% |
+| Profit before tax | 4.514 | 3.950 | +14.3% |
+| Profit for the period | 4.511 | 4.036 | +11.8% |
+| EPS (sen) | 0.67 | 0.60 | +11.7% |
+| Net cash from operating activities | 14.531 | (20.641) | Turned positive |
+
+## Q4 FY2026 results
+
+| Metric | Q4 FY2026 | Q4 FY2025 | YoY |
+|---|---:|---:|---:|
+| Revenue (RM m) | 41.240 | 20.322 | +103% |
+| Operating profit (RM m) | 5.390 | 1.434 | +276% |
+| Profit before tax (RM m) | 4.283 | 0.159 | +2,594% |
+| Profit for the period (RM m) | 4.265 | 0.309 | +1,280% |
+| EPS (sen) | 0.63 | 0.05 | Higher |
+
+Quarter-on-quarter versus Q3 FY2026, revenue increased 52%, operating profit 205%, PBT 835% and profit for the period 727%.
+
+## Profitability and earnings quality
+
+- FY2026 gross margin was approximately **53.0%** (FY2025: 47.5%).
+- FY2026 operating margin was approximately **7.8%** (FY2025: 8.6%).
+- FY2026 net margin was approximately **3.8%** (FY2025: 4.9%).
+- Revenue grew much faster than full-year net profit; operating expenses, R&D costs and financing costs require monitoring.
+- Finance costs were RM4.744m (FY2025: RM3.289m).
+- Inventory written down was RM2.442m for FY2026, including RM1.386m in Q4.
+- Expected-credit-loss allowance on trade receivables was RM0.886m.
+
+## Balance sheet and cash flow
+
+As at 30 September 2026:
+
+- Total assets: RM250.702m; total equity: RM117.365m.
+- Total borrowings: RM103.958m (FY2025: RM92.412m), up approximately 12.5%.
+- Cash and bank balances: RM29.013m; deposits with licensed banks: RM10.731m.
+- Current assets: RM178.447m; current liabilities: RM114.007m; current ratio approximately 1.57.
+- Inventories: RM83.164m (FY2025: RM68.503m), up approximately 21.4%.
+- Trade receivables: RM49.093m (FY2025: RM35.710m), up approximately 37.5%.
+- Operating cash flow: RM14.531m; investing cash flow: (RM21.189m); financing cash flow: RM11.972m.
+- Reported cash and cash equivalents at period end were RM21.641m, after the cash-flow statement's treatment of overdrafts and pledged deposits.
+
+**Balance-sheet watchpoint:** Borrowings, inventory and receivables all increased. Operating cash flow turned positive, but collections, inventory turnover and cash flow after investment spending need follow-up.
+
+## Revenue mix and markets
+
+### Business activities, FY2026
+- ATE: RM110.864m
+- Related services: RM7.260m
+
+### Principal markets, FY2026
+- China: RM35.778m (FY2025: RM36.740m)
+- India: RM10.119m (FY2025: nil reported)
+- Malaysia: RM30.058m (FY2025: RM23.945m)
+- Singapore: RM20.535m (FY2025: RM5.207m)
+- United States: RM3.289m (FY2025: RM3.534m)
+- Vietnam: RM1.748m (FY2025: RM8.192m)
+- Other countries: RM16.597m (FY2025: RM5.461m)
+
+## Management outlook from the report
+
+- Production was running at full speed and management expected this to continue throughout Q1 FY2027, with similar financial performance to Q4 FY2026.
+- Data Centre / AI demand was described as encouraging. AMB4600, AMB4200 and AMB1832 were identified as major revenue engines for Q1 FY2027.
+- The company reported orders related to data centre, advanced packaging and silicon capacitors, and was exploring deployment of AMB5600 in the data-centre market.
+- Management expected the Automotive / CIS market to take a breather in FY2027, with CIS demand slower in the near term but expected to grow later in FY2027.
+- New market development was ongoing for potential revenue contributions in 2H FY2027 and FY2028.
+
+## Initial investment interpretation
+
+**Positives**
+1. FY2026 revenue grew 42%; Q4 revenue more than doubled year-on-year.
+2. Gross margin improved and Q4 profitability rebounded sequentially.
+3. AI / data-centre and advanced-packaging orders may support future growth.
+4. Operating cash flow returned to positive territory.
+
+**Risks**
+1. Semiconductor equipment demand is cyclical; Q4 should not automatically be annualised.
+2. Full-year net-profit growth lagged revenue growth and net margin declined.
+3. Borrowings, inventory and receivables increased; finance costs rose.
+4. Management expects a near-term pause in Automotive / CIS.
+5. Current share price, valuation multiples and technical levels must be checked separately before forming a buy-price or margin-of-safety view.
+
+## Next-quarter monitoring checklist
+
+1. Whether Q1 FY2027 results are broadly consistent with management's guidance.
+2. AI / data-centre and advanced-packaging orders converted into recognised revenue.
+3. Gross margin, operating margin, R&D and operating expenses.
+4. Inventory and receivables growth relative to revenue; operating cash flow sustainability.
+5. Borrowings and finance costs.
+6. Effects of the expected Automotive / CIS slowdown.
+
+## Report page references
+
+- Page 2: statement of financial position.
+- Pages 3–4: profit or loss and EPS.
+- Pages 7–8: cash-flow statement.
+- Page 11: revenue by business activity and principal market.
+- Pages 13–15: performance review, balance-sheet movements and outlook.
+- Pages 18–20: borrowings, EPS, finance costs and inventory write-down.
+
+**Calculation note:** Growth rates and margins above are calculated from figures in the report and rounded. No unreported forecast values have been invented.
